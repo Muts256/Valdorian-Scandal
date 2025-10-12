@@ -8,10 +8,9 @@
 This lab aims to provide answers to a data breach on a reputable Newspaper. On the eve of the election, Nene Leaks, the esteemed editor of The Valdorian Times, awoke to a nightmare. The Valdorian Times, the beacon of truth for the city, published a scandalous article accusing Luffy of corruption and misconduct. The article, a vile concoction of lies, was not what she had approved. The Valdorian Times has hired you as a cyber incident responder to investigate the incident and determine how the falsified article was published.
 
 Objective:
-  - To enhance practical skills using a Sentinel.
-  - Installation and configuration of Sentinel, Log Analytics workspace.
+  - To enhance practical skills using KQL queries.
   - Search for anomalies/unusual behaviour in the logs using KQL
-  - Importing log files into Sentinel.
+  - Building a timeline to show how the breach happened
   - Creating an incident alert using  a scheduled rule.
   - Assigning and resolving alerts.
   - Using data connectors to connect to threat intelligence feeds to enrich the investigation process
