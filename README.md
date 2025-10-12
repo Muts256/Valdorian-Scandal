@@ -11,8 +11,8 @@ The Valdorian Times has hired you as a cyber incident responder to investigate t
 
 Objective:
   - To enhance practical skills using KQL queries.
-  - Search for anomalies/unusual behaviour in the logs using KQL
-  - Building a timeline to show how the breach happened
+  - Search for anomalies/unusual behaviour in the logs using KQL.
+  - Building a timeline to show how the breach happened.
   - Report writing describing the breach.
   - Provide recommendations on how to avoid breaches in the future.
 
