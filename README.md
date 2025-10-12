@@ -5,7 +5,7 @@
 - <b> KQL Lab </b>
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
 
-This lab aims to simulate a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
+This lab aims to provide answers to a data breach on a reputable Newspaper. On the eve of the election, Nene Leaks, the esteemed editor of The Valdorian Times, awoke to a nightmare. The Valdorian Times, the beacon of truth for the city, published a scandalous article accusing Luffy of corruption and misconduct. The article, a vile concoction of lies, was not what she had approved.
 
 Objective:
   - To enhance practical skills using a Sentinel.
