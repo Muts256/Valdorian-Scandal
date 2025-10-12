@@ -18,11 +18,11 @@ Objective:
   - Document the findings. See the Sentinel PDF (SOC Lab Honeyney.pdf) attached above.
 
 Lessons Learned:
-  - Configure Cyber Threat Intelligence feeds to enhance detection accuracy, Proactive defence.
-  - Configure Sentinel, Log Analytics workspaces, and Analytic rules
-  - Using the KQL to filter noise for quick investigation.
-  - The value of centralised monitoring.
-  - Incident handling workflow
+  - Exploring data quickly – Using | take 10 is a fast way to inspect table structures and understand what kind of data is available.
+  - Filtering and correlating events – Queries like where IP == "10.10.0.65" or filtering by distinct helped me narrow down relevant events efficiently.
+  - Timeline reconstruction – Sorting and combining logs allowed me to see the sequence of attacker actions, showing how they moved through the network.
+  - Identifying patterns – Using KQL operators like count or distinct helped detect repeated suspicious activities across multiple users and IPs.
+  - Hands-on confidence – Building queries from scratch reinforced my understanding of how to investigate breaches in a SIEM environment, preparing me for real-world scenarios.
   <h4>For the details, open the pdf attached</h4>
 
 <h2> 🤳 Connect with me:</h2>
