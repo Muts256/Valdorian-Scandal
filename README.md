@@ -12,15 +12,15 @@ Objective:
   - Search for anomalies/unusual behaviour in the logs using KQL
   - Building a timeline to show how the breach happened
   - Creating an incident alert using  a scheduled rule.
-  - Assigning and resolving alerts.
-  - Using data connectors to connect to threat intelligence feeds to enrich the investigation process
-  - Document the findings. See the Sentinel PDF (SOC Lab Honeyney.pdf) attached above.
+  - Report writing describing the breach.
+  - Provide recommendations on how to avoid breaches in the future.
 
 Lessons Learned:
   - Exploring data quickly – Using | take 10 is a fast way to inspect table structures and understand what kind of data is available.
   - Filtering and correlating events – Queries like where IP == "10.10.0.65" or filtering by distinct helped me narrow down relevant events efficiently.
   - Timeline reconstruction – Sorting and combining logs allowed me to see the sequence of attacker actions, showing how they moved through the network.
   - Identifying patterns – Using KQL operators like count or distinct helped detect repeated suspicious activities across multiple users and IPs.
+  - Report writing, describing the investigation.
   - Hands-on confidence – Building queries from scratch reinforced my understanding of how to investigate breaches in a SIEM environment, preparing me for real-world scenarios.
   <h4>For the details, open the pdf attached</h4>
 
