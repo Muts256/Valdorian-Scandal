@@ -5,7 +5,8 @@
 - <b> KQL Lab </b>
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
 
-This lab aims to provide answers to a data breach on a reputable Newspaper. On the eve of the election, Nene Leaks, the esteemed editor of The Valdorian Times, awoke to a nightmare. The Valdorian Times, the beacon of truth for the city, published a scandalous article accusing Luffy of corruption and misconduct. The article, a vile concoction of lies, was not what she had approved. The Valdorian Times has hired you as a cyber incident responder to investigate the incident and determine how the falsified article was published.
+This lab aims to provide answers to a data breach on a reputable Newspaper. On the eve of the election, Nene Leaks, the esteemed editor of The Valdorian Times, awoke to a nightmare. The Valdorian Times, the beacon of truth for the city, published a scandalous article accusing Luffy of corruption and misconduct. 
+The article, a vile concoction of lies, was not what she had approved. The Valdorian Times has hired you as a cyber incident responder to investigate the incident and determine how the falsified article was published.
 
 Objective:
   - To enhance practical skills using KQL queries.
