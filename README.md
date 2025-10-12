@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Sentinel Configuration, Investigation & KQL Labs</h2>
+<h2>👨‍💻 Sentinel Configuration, Investigations & KQL Labs</h2>
 
 - <b> KQL Lab </b>
   - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
