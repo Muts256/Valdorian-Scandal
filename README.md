@@ -1,9 +1,9 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Sentinel Configuration and Investigation</h2>
+<h2>👨‍💻 Sentinel Configuration, Investigation & KQL Labs</h2>
 
 - <b> Sentinel </b>
-  - [Sentinel](https://github.com/Muts256/Valdorian-Scandal)
+  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
 
 This lab aims to simulate a Security Operations Center (SOC) environment by deploying a honeynet in Microsoft Azure, forwarding security logs into Microsoft Sentinel, and detecting a brute force attack in real time. The project demonstrates the end-to-end SOC workflow, including log ingestion, threat detection using KQL queries, incident creation and investigation, and enrichment with external threat intelligence sources such as Pulsedive.
 
