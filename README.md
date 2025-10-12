@@ -13,7 +13,6 @@ Objective:
   - To enhance practical skills using KQL queries.
   - Search for anomalies/unusual behaviour in the logs using KQL
   - Building a timeline to show how the breach happened
-  - Creating an incident alert using  a scheduled rule.
   - Report writing describing the breach.
   - Provide recommendations on how to avoid breaches in the future.
 
