@@ -10,17 +10,13 @@ Investigation into a data breach at a reputable Newspaper. On the eve of the ele
 The Valdorian Times has hired you as a cyber incident responder to investigate the incident and determine how the falsified article was published.
 
 Summary:
-  - Investigate what happened, indicate a timeline, who was involved, and what could have been done to prevent the incident
+  - Investigate what happened, indicate a timeline, who was involved, and what could have been done to prevent the incident.
+  - Detect anomalies/unusual behaviour in the logs using KQL.
+  - Report writing describing the breach.
+  - Provide recommendations on how to avoid breaches in the future.
 
 Tools and Technologies
   - Kusto Query Language (KQL)
-
-Objective:
-  - To enhance practical skills using KQL queries.
-  - Search for anomalies/unusual behaviour in the logs using KQL.
-  - Building a timeline to show how the breach happened.
-  - Report writing describing the breach.
-  - Provide recommendations on how to avoid breaches in the future.
 
 Lessons Learned:
   - Exploring data quickly – Using | take 10 is a fast way to inspect table structures and understand what kind of data is available.
