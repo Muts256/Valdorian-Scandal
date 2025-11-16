@@ -18,6 +18,13 @@ Summary:
 Tools and Technologies
   - Kusto Query Language (KQL)
 
+Investigation: 
+  - Interview the employees to gather information.
+  - Interrogate the log tables to discover what they contain.
+  - Detect the devices that may have been used in the breach.
+  - Build a timeline of the breach.
+  - Write a report including recommendations.
+    
 Lessons Learned:
   - Exploring data quickly – Using | take 10 is a fast way to inspect table structures and understand what kind of data is available.
   - Filtering and correlating events – Queries like where IP == "10.10.0.65" or filtering by distinct helped me narrow down relevant events efficiently.
