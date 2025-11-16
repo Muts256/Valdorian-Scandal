@@ -26,7 +26,7 @@ Investigation:
   - Write a report including recommendations.
     
 Lessons Learned:
-  - Exploring data quickly – Using | take 10 is a fast way to inspect table structures and understand what kind of data is available.
+  - Exploring data quickly – Using Table Name | take 10 is a fast way to inspect table structures and understand what kind of data is available.
   - Filtering and correlating events – Queries like where IP == "10.10.0.65" or filtering by distinct helped me narrow down relevant events efficiently.
   - Timeline reconstruction – Sorting and combining logs allowed me to see the sequence of attacker actions, showing how they moved through the network.
   - Identifying patterns – Using KQL operators like count or distinct helped detect repeated suspicious activities across multiple users and IPs.
