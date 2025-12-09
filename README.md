@@ -17,6 +17,7 @@ Summary:
 
 Tools and Technologies
   - Kusto Query Language (KQL)
+  - MITRE ATT&CK
 
 Investigation: 
   - Interview the employees to gather information.
@@ -24,7 +25,15 @@ Investigation:
   - Detect the devices that may have been used in the breach.
   - Build a timeline of the breach.
   - Write a report including recommendations.
-    
+
+Some techniques the perpetrators used can be traced back to the MITRE ATT&CK framework. These include 
+
+MITRE ATT&CK:
+  - T1566 Phishing: Phishing Email: Phishing emails are categorised under Initial Access because they are used to gain the first foothold into an environment.
+  - T1041 – Exfiltration Over C2 (Command and Control) Data was stolen from an employee's device.
+  - T1033 – System Owner/User Discovery. Commands like whoami were used to identify the username and privilege level
+
+
 Lessons Learned:
   - Exploring data quickly – Using Table Name | take 10 is a fast way to inspect table structures and understand what kind of data is available.
   - Filtering and correlating events – Queries like where IP == "10.10.0.65" or filtering by distinct helped me narrow down relevant events efficiently.
