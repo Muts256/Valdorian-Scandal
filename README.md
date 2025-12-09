@@ -31,7 +31,8 @@ Some techniques the perpetrators used can be traced back to the MITRE ATT&CK fra
 MITRE ATT&CK:
   - T1566 Phishing: Phishing Email: Phishing emails are categorised under Initial Access because they are used to gain the first foothold into an environment.
   - T1041 – Exfiltration Over C2 (Command and Control) Data was stolen from an employee's device.
-  - T1033 – System Owner/User Discovery. Commands like whoami were used to identify the username and privilege level
+  - T1033 – System Owner Discovery. Commands like whoami were used to identify the username and privilege level.
+  - T1082 - System Information Discovery Commands like hostname used to identify the system infromation
 
 
 Lessons Learned:
