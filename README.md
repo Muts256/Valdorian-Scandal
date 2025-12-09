@@ -17,7 +17,7 @@ Summary:
 
 Tools and Technologies
   - Kusto Query Language (KQL)
-  - MITRE ATT&CK
+  - MITRE ATT&CK framework
 
 Investigation: 
   - Interview the employees to gather information.
