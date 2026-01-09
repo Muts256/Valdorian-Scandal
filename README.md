@@ -42,7 +42,8 @@ Lessons Learned:
   - Identifying patterns – Using KQL operators like count or distinct helped detect repeated suspicious activities across multiple users and IPs.
   - Report writing, describing the investigation.
   - Hands-on confidence – Building queries from scratch reinforced my understanding of how to investigate breaches in a SIEM environment, preparing me for real-world scenarios.
-  <h4>For the details, open the Valdorian Times Investigation PDF attached</h4>
+
+[PDF](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
