@@ -43,7 +43,7 @@ Lessons Learned:
   - Report writing, describing the investigation.
   - Hands-on confidence – Building queries from scratch reinforced my understanding of how to investigate breaches in a SIEM environment, preparing me for real-world scenarios.
 
-[PDF](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
+ [PDF](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
