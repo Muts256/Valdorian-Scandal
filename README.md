@@ -3,7 +3,7 @@
 <h2>👨‍💻 Sentinel Configuration, Investigations & KQL Labs</h2>
 
 - <b> Kusto Query Language </b>
-  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal)
+  - [KQL Investigation](https://github.com/Muts256/Valdorian-Scandal/blob/main/Valdorian%20Times%20Investigation.pdf)
 
 Investigation into a data breach at a reputable Newspaper. On the eve of the election, Nene Leaks, the esteemed editor of The Valdorian Times, awoke to a nightmare. The Valdorian Times, the beacon of truth for the city, published a scandalous article accusing Luffy of corruption and misconduct. The article, a vile concoction of lies, was not what she had approved. 
 
